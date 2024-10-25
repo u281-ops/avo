@@ -1,0 +1,378 @@
+/* Basic styling for the hero section */
+.hero-section {
+    position: relative;
+    width: 100%;
+    height: 101vh;
+    overflow: hidden;
+}
+
+.hero-content {
+    position: absolute;
+   
+    display: flex;
+    top: 30%;
+    left: 50%;
+    transform: translate(-70%, -22%);
+    max-width: 1000px;
+    margin: auto;
+    max-width: 1000px;
+    margin: auto;
+    color: white;
+    z-index: 2;
+    opacity: 0;
+    gap: 150px;
+   
+    
+}
+.hero-content.active-content {
+
+    opacity: 1;
+    max-width: 1000px;
+    margin: auto;
+    
+}
+.hero-title {
+    font-size: 36px;
+    margin-bottom: -23px;
+    max-width: 371px;
+}
+
+.hero-subtitle {
+    font-size: 16px;
+line-height: 1.5;
+    font-weight: 400;
+    color: #a0a0b4;
+    margin-bottom: 10px;
+}
+
+.btn-cta {
+    padding: 10px 20px;
+    background-color: #f50404; /* Keep this color for the CTA button */
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-cta:hover {
+    background-color: #d9534f;
+}
+
+/* Hero images styling */
+.hero-images {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    clip-path: polygon(99% -83%, 102% 78%, 66% 97%, -55% 43%);
+    
+}
+
+.hero-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+.hero-image.active {
+    opacity: 1;
+}
+
+/* Circular buttons */
+.navigation-buttons {
+    position: absolute;
+    bottom: 68px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 13px;
+    z-index: 3;
+}
+
+.circle-btn {
+    width: 15px; /* Set appropriate size */
+    height: 15px; /* Set appropriate size */
+    border-radius: 50%;
+    background-color: transparent; /* No background color */
+    border: none; /* No border */
+    cursor: pointer; /* Pointer cursor */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0); /* Optional shadow */
+    transition: background-color 0.3s ease;
+}
+
+/* Circle button with a Unicode character */
+.circle-btn::before {
+    content: '◉'; /* Unicode character for circle */
+    font-size: 1.5rem;
+    color: white; /* Color for the character */
+}
+
+/* Add these styles to your existing CSS */
+
+
+    .usama100{
+    display: flex;
+    max-width: 984px;
+    margin: auto;
+    gap: 374px;
+    }
+    .usama101{
+      padding: 20px;
+      color: white;
+      z-index: 2;
+      display: flex;
+      font-weight: 700;
+    }
+    .usama102{
+      display: flex;
+      gap: 64px;
+      padding: 20px;
+      z-index: 2;
+      font-weight: 700;
+    }
+    .usama103{
+      text-decoration: none;
+      color: #717171;
+    }
+    .usama104{
+        display: flex;
+    }
+    .usama105{
+        height: 40px;
+        width: 6px;
+        padding-top: 25px;
+    }
+    .usama106{
+        padding-bottom: 95px;
+    }
+    .usama107{
+        color: #f50404;
+    }
+    .usama108{
+        color: #f50404;
+    }
+    .play-button {
+        width: 60px;
+        height: 60px;
+        background-color: red;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+    }
+    
+    .play-button a {
+        text-decoration: none;
+        color: inherit;
+    }
+    
+    .play-icon {
+        font-size: 35px;
+        color: black;
+    }
+    @media only screen and (max-width: 1278px) {
+  
+        .usama100{
+            max-width: 938px;
+      }
+      
+      
+      }
+      @media only screen and (max-width: 1268px) {
+  
+        .hero-title {
+            font-size: 34px;
+        }
+      }
+      @media only screen and (max-width: 1264px) {
+  
+        .hero-content {
+            position: absolute;
+           
+            display: flex;
+            top: 30%;
+            left: 50%;
+            transform: translate(-70%, -22%);
+            max-width: 1000px;
+            margin: auto;
+            max-width: 1000px;
+            margin: auto;
+            color: white;
+            z-index: 2;
+            opacity: 0;
+            gap: 91px;
+           
+            
+        }
+      }
+      @media only screen and (max-width: 1250px) {
+  
+        .hero-content {
+            position: absolute;
+           
+            display: flex;
+            top: 30%;
+            left: 50%;
+            transform: translate(-70%, -22%);
+            max-width: 1000px;
+            margin: auto;
+            max-width: 1000px;
+            margin: auto;
+            color: white;
+            z-index: 2;
+            opacity: 0;
+            gap: 78px;
+           
+            
+        }
+      }
+      @media only screen and (max-width: 1150px) {
+  
+        .hero-title {
+            font-size: 31px;
+        }
+      }
+      @media only screen and (max-width: 1072px) {
+        .hero-content.active-content {
+
+            flex-wrap: wrap;
+            
+        }
+        .hero-section {
+            
+            height: 148vh;
+            
+        }
+        .usama106 {
+            padding-bottom: 0px;
+        }
+        .usama104 {
+            display: flex;
+            margin-top: -93px;
+        }
+        .hero-content.active-content {
+           
+             opacity: 1;
+            max-width: 1000px;
+            margin: auto;
+            margin-top: -55px;
+      }
+      .usama100 {
+        max-width: 791px;
+        gap: 284px;
+    }
+   .usama105{
+    height: 27px;
+   }
+    }
+    @media only screen and (max-width: 992px) {
+  
+        .usama100 {
+            max-width: 735px;
+            gap: 203px;
+        }
+        .hero-subtitle {
+            line-height: 1.8;
+            margin-bottom: 18px;
+        }
+    }
+    @media only screen and (max-width: 884px) {
+  
+        .hero-content.active-content {
+            
+            margin-top: -21px;}
+            .usama102{
+                margin-top: 14px;
+            }
+       
+            .usama100 {
+                max-width: 735px;
+                gap: 0px;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+            .hero-title {
+                font-size: 31px;
+                margin-bottom: -19px;
+            }
+        
+        }
+        @media only screen and (max-width: 592px) {
+  
+       .usama101{
+        padding-top: 7px;
+       }
+       .usama102{
+        margin-top: -50px;
+       }
+       .hero-images {
+        
+        clip-path: polygon(99% -97%, 157% 78%, 141% 97%, -240% 203%);
+    }
+            }
+            @media only screen and (max-width: 502px) {
+  
+                
+                .usama102{
+                    gap: 42px;
+                }
+                
+                     }
+@media only screen and (max-width: 416px) {
+
+                
+.usama102{
+    flex-wrap: wrap;
+     gap: -46px;
+     justify-content: center;
+            }
+            .hero-section {
+                height: 200vh;
+            }
+                        
+     }   
+     @media only screen and (max-width: 334px) {
+
+                
+        .hero-content{
+            top: 36%;
+                    }
+                         
+             }        
+             @media only screen and (max-width: 1104px) {
+
+                
+                .slide{
+                    flex-wrap: wrap;
+                    justify-content: center;
+                }
+                                 
+                     }    
+                     @media only screen and (max-width: 628px) {
+
+                
+                        .usama51{
+                            padding-top: 264px;
+                        }
+                                         
+                             } 
+                             @media only screen and (max-width: 628px) {
+
+                
+                                .usama96{
+                                    padding-top: 4px;
+                                }
+                                                 
+                                     } 
+        

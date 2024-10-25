@@ -1,0 +1,1104 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+  }
+  
+  .usama{
+max-width: 1200px;
+margin: auto;
+text-align: center;
+  }
+  .usama0{
+display: flex;
+margin: auto;
+text-align: center;
+    justify-content: center;
+    gap: 112px;
+  }
+  .usama1{
+    width: 52px;
+  }
+  .usama2{
+    height: 52px;
+  }
+  .usama3{
+    padding-top: 6px;
+  }
+  .usama4{
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  .usama5{
+    display: flex;
+    max-width: 1052px;
+    margin: auto;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 56px;
+    padding-bottom: 30px;
+  }
+  .usama6{
+    width: 300px;
+    height: 400px;
+  }
+  .usama7{
+    max-width: 310px;
+  }
+  .usama8{
+    max-width: 300px;
+  }
+  .usama9{
+text-align: right;
+
+font-weight: 500;
+
+  }
+  .usama10{
+text-align: right;
+line-height: 1.8;
+color: #a0a0b4;
+  }
+  .usama11{
+    line-height: 1.8;
+    color: #a0a0b4;
+  }
+  .usama12{
+    padding-top: 17px;
+  }
+  .usama13{
+    display: flex;
+    max-width: 1000px;
+    margin: auto;
+    gap: 94px;
+  }
+  .usama14{
+    display: flex;
+  }
+  .usama15{
+    font-size: 18px;
+    font-weight: 600;
+    max-width: 150px;
+    line-height: 1.3;
+  }
+  .usama16{
+    font-family: "Nunito Sans", Arial, sans-serif;
+    background: #fff;
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: #a0a0b4;
+    max-width: 213px;
+  }
+  .usama17{
+    position: relative;
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 1;
+    color: #d1002c;
+    margin-right: 13px;
+  }
+  .usama18{
+    background-color: rgb(248, 244, 244);
+    color: rgb(8, 1, 1);
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  .usama19{
+display: flex;
+  }
+  .usama20{
+    width: 420px;
+    height: 606px;
+  }
+  .usama21{
+    width: 54px;
+    border-radius: 50%
+  }
+  .usama22{
+    display: flex;
+    gap: 20px;
+  }
+  .usama23{
+    max-width: 1000px;
+    margin: auto;
+  }
+  .usama24{
+        max-width: 455px;
+    margin: auto;
+  }
+  .usama25{
+    display: block;
+    font-size: 12px;
+    letter-spacing: 3px;
+    color: #000000;
+    font-weight: 600;
+  }
+  .usama26{
+    font-size: 40px;
+ 
+    line-height: 0.3;
+    letter-spacing: 2px;
+    font-weight: 400;
+  }
+  .usama27{
+    font-family: "Nunito Sans", Arial, sans-serif;
+    background: #fff;
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: #a0a0b4;
+  }
+  .usama28{
+    font-size: 16px;
+    color: black;
+    font-weight: 400;
+  }
+  .usama29{
+    font-family: "Nunito Sans", Arial, sans-serif;
+    background: #fff;
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: #a0a0b4;
+  }
+  .usama30{
+    padding-top: 16px;
+  }
+  .usama31{
+    text-align: center;
+    padding-top: 300px;
+    margin-bottom: 60px;
+  }
+  .usama32{
+    display: flex;
+  }
+  .usama33{
+    display: block;
+    font-size: 12px;
+    letter-spacing: 3px;
+    color: #000000;
+    font-weight: 600;
+    text-align: right;
+  }
+  .usama34{
+    font-size: 40px;
+ 
+    line-height: 0.3;
+    letter-spacing: 2px;
+    font-weight: 400;
+    text-align: right;
+  }
+  .usama35{
+    font-family: "Nunito Sans", Arial, sans-serif;
+    background: #fff;
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: #a0a0b4;
+    text-align: right;
+  }
+  .usama36{
+    
+    justify-content: right;
+    text-align: right;
+  }
+  .usama37{
+    margin-top: -91px;
+  }
+  .usama38{
+    margin-top: -91px;
+    padding-top: 30px;
+  }
+.usama39{
+  max-width: 1000px;
+  margin: auto;
+  background-image: url("images/bg_1.jpg");
+  background-size: cover; /* Adjust to fit your needs */
+  background-position: center center; /* Adjust to position the image */
+}
+.usama40{
+  color: #d1002c;
+  font-size: 16px;
+    font-weight: 400;
+}
+.usama41{
+  font-size: 30px;
+    color: #fff;
+    line-height: 1.2;
+    font-weight: 400;
+}
+.usama42{
+  font-family: "Nunito Sans", Arial, sans-serif;
+    
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: #a0a0b4;
+}
+.usama43{
+  background-color: rgb(248, 244, 244);
+  color: rgb(8, 1, 1);
+  padding: 10px 20px;
+  border: 0px solid #ccc;
+  cursor: pointer;
+  border-radius: 5px;
+  text-decoration: none;
+  background-color: #d1002c;
+}
+.usama44{
+  max-width: 450px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: 35px;
+}
+.usama45{
+  display: flex;
+  margin: auto;
+  max-width: 1000px;
+  padding-bottom: 70px;
+ 
+}
+.usama46{
+  display: flex;
+  gap: 7px;
+  font-size: 16px;
+}
+.usama47{
+  width: 220px;
+  height: 300px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.usama48{
+  font-size: 20px;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-decoration: none;
+    line-height: 1.5;
+    color: rgba(0, 0, 0, 0.8);
+   
+}
+.usama49{
+  font-family: "Nunito Sans", Arial, sans-serif;
+  background: #fff;
+  font-size: 16px;
+  line-height: 1.8;
+  font-weight: 400;
+  color: #a0a0b4;
+  max-width: 235px;
+}
+.usama50{
+  color: #000000;
+  text-decoration: none;
+}
+.usama51{
+  display: flex;
+  max-width: 1000px;
+  margin: auto;
+  padding-top: 200px;
+}
+
+
+
+.usama52{
+  display: flex;
+  padding-top: 31px;
+  gap: 10px;
+}
+.usama53{
+  background-color: #c5bdbd; /* Change the background color */
+    border-radius: 50%; /* Adjust the border radius for the desired shape */
+    padding: 5px 10px; /* Adjust padding as needed */
+    text-align: center;
+    color: #a0a0b4;
+}
+.usama54{
+  display: flex;
+}
+.usama55{
+  display: flex;
+  gap: 20px;
+}
+.usama56{
+  max-width: 168px;
+  width: 25%;
+}
+.usama57{
+  font-weight: normal;
+  color: white;
+  margin-bottom: 40px;
+  font-size: 18px;
+  font-weight: 700;
+}
+.usama58{
+  max-width: 177px;
+}
+.usama59{
+  width: 25%;
+}
+.usama60{
+  margin-right: 11px;
+  color: #a0a0b4;
+}
+.usama61{
+  text-decoration: none;
+  color: #a0a0b4;
+  line-height: 1.8;
+}
+.usama62{
+  line-height: 1.8;
+    font-weight: 400;
+    color: #a0a0b4;
+}
+.usama63{
+  margin-top: -18px;
+  color: #a0a0b4;
+  line-height: 1.8;
+}
+.usama64{
+  color: #a0a0b4;
+}
+.usama65{
+  display: flex;
+  max-width: 1000px;
+  margin: auto;
+  justify-content: center;
+  color: #a0a0b4;
+  padding-top: 55px;
+  padding-bottom: 84px;
+
+ 
+}
+.usama66{
+  color: #d1002c;
+  text-decoration: none;
+}
+.usama67{
+  background-color: black;
+  clip-path: polygon(60% 24%, 183% -16%, 103% 123%, -30% 97%, -600% -226%)
+}
+.usama68{
+  width: 230px;
+    height: 300px;
+}
+.usama69{
+  display: flex;
+  max-width: 1000px;
+  margin: auto;
+  gap: 27px;
+  padding-top: 50px;
+}
+.usama70{
+  text-align: center;
+}
+.usama71{
+  font-size: 20px;
+    font-weight: 800;
+    max-width: 100px;
+    line-height: 1;
+}
+.usama72{
+  font-size: 14px;
+    color: #d1002c;
+    display: block;
+    font-weight: 500;
+    letter-spacing: 3px;
+}
+.usama73 {
+  display: flex;
+  max-width: 500px;
+  margin: auto;
+  gap: 10px;
+  justify-content: center;
+}
+
+.usama74 {
+  border-radius: 50%; /* Make it round */
+  border: 1px solid #e4e1e1; /* Add black border */
+  width: 30px; /* Set a fixed width */
+  height: 30px; /* Set a fixed height */
+  display: flex; /* Center content */
+  justify-content: center; /* Center content */
+  align-items: center; /* Center content */
+  transition: background-color 0.3s ease; /* Smooth transition for background color */
+}
+
+.usama74 a {
+  text-decoration: none; /* Remove underline from links */
+  color: #000; /* Set default link color */
+}
+
+/* Change background and text color on hover */
+.usama74:hover {
+  background-color: red; /* Background color on hover */
+  color: white; /* Text color on hover */
+}
+
+.usama74:hover a {
+  color: white; /* Change link color to white on hover */
+}
+
+/* Keep "1" permanently red */
+.usama74:nth-child(2) {
+  background-color: red; /* Background color for "1" */
+  color: white; /* Text color for "1" */
+}
+
+.usama74:nth-child(2) a {
+  color: white; /* Link color for "1" */
+}
+.usama75{
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 70px;
+}
+.usama76{
+  font-size: 18px;
+    
+    margin-bottom: 0;
+    color: #d1002c;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    position: relative;
+}
+.usama77{
+  font-size: 36px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-top: 3px;
+}
+.usama78{
+  font-family: "Nunito Sans", Arial, sans-serif;
+  background: #fff;
+  font-size: 16px;
+  line-height: 1.8;
+  font-weight: 400;
+  color: #a0a0b4;
+  max-width: 544px;
+  margin: auto;
+}
+.usama79{
+  background: #f3f3f3;
+  margin: auto;
+  margin-right: 40px;
+}
+.usama80{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 100px;
+}
+.usama81{
+  display: flex;
+  margin-bottom: 31px;
+
+}
+.usama82{
+  font-size: 17px;
+  font-weight: 100;
+  margin-top: -2px;
+}
+.usama83{
+  font-family: "Nunito Sans", Arial, sans-serif;
+  background: #fff;
+  font-size: 16px;
+  line-height: 1.8;
+  max-width: 269px;
+  font-weight: 400;
+  color: #a0a0b4;
+  margin-top: -15px;
+  
+}
+.usama84{
+ margin-right: 15px;
+ font-size: xx-large;
+}
+.usama85{
+  color: #d1002c;
+  margin-top: -15px;
+}
+.usama86{
+  text-align: center;
+  font-weight: 900;
+  font-size: 39px;
+  padding-top: 260px;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 0px solid #ccc;
+  border-radius: 5px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 19px;/* Add margin for spacing */
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  flex: 1;
+  padding: 15px;
+  border: 0px solid #ccc;
+  border-radius: 3px;
+  outline: none; /* Remove default outline */
+}
+
+input[type="text"]::placeholder,
+input[type="email"]::placeholder,
+textarea::placeholder {
+  color: #999;
+  font-style: italic;
+}
+
+input[type="submit"] {
+  background-color: #fa0a0a;
+  color: white;
+  padding: 29px 50px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+
+.name-email-container {
+  display: flex;
+  flex-direction: column; /* Arrange items vertically */
+}
+
+.name-email-container input {
+  margin-bottom: 10px; /* Add margin between name and email inputs */
+}
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.icon-container {
+    background-color: red;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.icon-container i {
+    font-size: 24px;
+    color: white;
+}
+
+.contact-item span {
+    font-weight: bold;
+}
+
+.contact-item p {
+    margin: 0;
+}
+
+.contact-item a {
+    color: #007bff;
+    text-decoration: none;
+}
+/* Slider Container */
+.slider {
+  width: 100%;
+  max-width: 1100px;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Individual Slide */
+.slide {
+  display: none; /* Hide all slides */
+  justify-content: space-around; /* Align testimonials evenly */
+  text-align: center;
+  padding: 20px;
+}
+
+.slide.active {
+  display: flex; /* Show only the active slide */
+  transition: opacity 0.5s ease-in-out;
+}
+
+.testimonial-card {
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  margin: 0 10px;
+}
+
+.quote-icon {
+  font-size: 36px;
+  margin-bottom: 10px;
+  color: red;
+  text-align: left;
+}
+
+.testimonial-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.testimonial-info img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.testimonial-info h3 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.testimonial-info p {
+  font-size: 16px;
+  color: #777;
+}
+
+/* Dots styling */
+.dots {
+  text-align: center;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+
+.dot {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background-color: #ddd;
+  border-radius: 50%;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.dot.active {
+  background-color: #f50a0a;
+}
+
+
+
+.usama88{
+  color: white;
+  font-size: 40px;
+  font-weight: 600;
+}
+.usama89{
+  height: 55px;
+}
+.usama90{
+  color: #a0a0b4;
+}
+.usama91{
+max-width: 600px;
+margin: auto;
+text-align: left;
+}
+.usama92{
+max-width: 400px;
+margin: auto;
+margin-left: 257px;
+}
+.usama93{
+  font-size: 40px;
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 1.1;
+    font-weight: 900;
+}
+.usama94{
+  font-family: "Nunito Sans", Arial, sans-serif;
+   
+    font-size: 16px;
+    line-height: 1.8;
+    font-weight: 400;
+    color: #a0a0b4;
+}
+.usama95{
+  background-image: url(images/bg_2.jpg);
+  width: 100%;
+  height: 94%;
+  background-size: cover;
+  clip-path: polygon(99% -83%, 102% 78%, 66% 97%, -55% 43%);
+
+}
+.usama96{
+  display: flex;
+  color: white;
+  max-width: 942px;
+  margin: auto;
+  gap:10px;
+  padding-top: 50px;
+}
+.usama97{
+  text-decoration: none;
+  color: #717171;
+}
+.usama98{
+  color:white;
+  max-width: 942px;
+    margin: auto;
+    font-weight: 900;
+
+}
+.usama99{
+  margin: auto;
+  color: #717171;
+}
+@media only screen and (max-width: 934px) {
+  .usama {
+    max-width: 758px;
+    margin: auto;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 804px) {
+  .usama0 {
+    gap: 35px;
+  }
+}
+@media only screen and (max-width: 616px) {
+  .usama1 {
+    width: 51px;
+  }
+  .usama0 {
+    gap: 10px;
+}
+}
+@media only screen and (max-width: 518px) {
+  
+  .usama0 {
+    flex-wrap: wrap;
+}
+}
+@media only screen and (max-width: 968px) {
+  
+  .usama5 {
+    flex-wrap: wrap;
+}
+}
+@media only screen and (max-width: 910px) {
+  
+  .usama13 {
+    display: flex;
+    max-width: 763px;
+    margin: auto;
+    gap: 20px;
+}
+}
+@media only screen and (max-width: 766px) {
+  
+  .usama13 {
+    display: flex;
+    max-width: 722px;
+    margin: auto;
+    gap: 0px;
+}
+}
+@media only screen and (max-width: 722px) {
+  
+  .usama16 {
+    font-size: 14px;
+}
+}
+@media only screen and (max-width: 658px) {
+  
+  .usama16 {
+    font-size: 13px;
+}
+.usama15{
+  font-size: 15px;
+}
+}
+@media only screen and (max-width: 626px) {
+  
+  .usama13 {
+    flex-wrap: wrap;
+    max-width: 100%;
+    justify-content: center;
+}
+}
+@media only screen and (max-width: 878px) {
+  
+  .usama20 {
+    width: 350px;
+    height: 550px;
+}
+
+}
+@media only screen and (max-width: 806px) {
+  
+  .usama27 {
+    font-size: 15px;
+}
+
+
+}
+@media only screen and (max-width: 776px) {
+  
+  .usama27 {
+    font-size: 14px;
+}
+
+
+}
+@media only screen and (max-width: 750px) {
+  
+  .usama19 {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+}
+
+}
+@media only screen and (max-width: 814px) {
+  
+  .usama35 {
+    font-size: 15px;
+}
+
+}
+@media only screen and (max-width: 776px) {
+  
+  .usama35 {
+    font-size: 14px;
+}
+
+}
+@media only screen and (max-width: 750px) {
+  
+  .usama32 {
+    text-align: center;
+        flex-wrap: wrap;
+        margin: auto;
+        justify-content: center;
+}
+.usama37 {
+  margin-top: 40px;
+}
+
+}
+@media only screen and (max-width: 530px) {
+  
+  .usama35 {
+    font-size: 14px;
+    text-align: center;
+}
+
+}
+
+@media only screen and (max-width: 538px) {
+  
+  .usama41 {
+    font-size: 26px;
+
+}
+}
+@media only screen and (max-width: 900px) {
+  
+  .usama45 {
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.usama87{
+  max-width: 240px;
+
+}
+}
+@media only screen and (max-width: 538px) {
+  
+  .usama69 {
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+}
+@media only screen and (max-width: 756px) {
+  
+  .usama83 {
+    font-size: 14px;
+
+}
+}
+@media only screen and (max-width: 726px) {
+  
+  .usama80 {
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+}
+@media only screen and (max-width: 542px) {
+  
+  .usama79 {
+    margin-right: 0px;
+}
+
+}
+@media only screen and (max-width: 414px) {
+  
+  .usama79 {
+    max-width: 300px;
+}
+
+}
+@media only screen and (max-width: 1046px) {
+  
+  .usama51 {
+    flex-wrap: wrap;
+    justify-content: center;
+        margin: auto;
+}
+
+}
+@media only screen and (max-width: 1102px) {
+  
+  .usama96 {
+    max-width: 693px;
+}
+.usama98{
+  max-width: 693px;
+}
+}
+@media only screen and (max-width: 886px) {
+  
+  .usama96 {
+    max-width: 468px;
+}
+.usama98{
+  max-width: 468px;
+}
+}
+@media only screen and (max-width: 816px) {
+  
+  .logo {
+   padding-left: 158px;
+}
+}
+@media only screen and (max-width: 772px) {
+  
+  .logo {
+   padding-left: 130px;
+}
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 57px;
+}
+}
+@media only screen and (max-width: 710px) {
+  
+  .logo {
+   padding-left: 105px;
+}
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 52px;
+}
+}
+@media only screen and (max-width: 654px) {
+  
+  .logo {
+   padding-left: 75px;
+}
+
+}
+@media only screen and (max-width: 608px) {
+  
+  .logo {
+   padding-left: 52px;
+}
+
+}
+@media only screen and (max-width: 586px) {
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 36px;
+}
+
+}
+@media only screen and (max-width: 586px) {
+  
+  .usama96{
+    padding-top: 64px;
+
+}
+.logo{
+  padding-left: 7px;
+}
+}
+@media only screen and (max-width: 480px) {
+  
+ 
+.logo{
+  padding-left: 0px;
+}
+}
+@media only screen and (max-width: 466px) {
+  .navbar {
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+}
+.usama96 {
+  padding-top: 64px;
+  justify-content: center;
+}
+.usama98 {
+  max-width: 468px;
+  /* margin: auto; */
+  text-align: center;
+}
+.nav-links{
+  flex-wrap: wrap;
+  margin: auto;
+}
+ 
+ 
+  }
+  
+
+
+
+
+
